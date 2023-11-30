@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-{% comment %}
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-{% endcomment %}
+
+Hello, my name is Dongji Feng, I am a Computer Science tenure-track assistant professor at Gustavus Adolphus College. I finished my Ph.D. at BDI lab under the supervision of [Dr.Santu](https://karmake2.github.io/). My research interests include Natural Language Generation, Large Language Models, Information Retrieval, and corresponding evaluation metrics. 
+Before I join BDI lab, I worked with [Dr.Thomas](https://eng.auburn.edu/directory/jnt0020) on research of exploring the development of computational algorithmic thinking, during which I served as Entrepreneur lead for an education start-up funded by the [NSF I-Corp](https://new.nsf.gov/funding/initiatives/i-corps).
+During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-level Computer Science courses, such as [Graduate Level: Information Retrieval, Machine Learning, Computer Game Design & Development] and [undergraduate level: Intro to Algorithm, Cloud Computing]. 
+
 
 
 A data-driven personal website
