@@ -31,7 +31,7 @@ News
 
  <span style="color:blue;">[Oct 2023] </span> I have defended my Ph.D. thesis and graduated from Auburn University!
 
- <span style="color:blue;">[May 2023] </span> Our paper has been accepted by Information Processing and Management Journal! 
+ <span style="color:blue;">[May 2023] </span> Our paper has been accepted by Information Processing and Management Journal [UE Normalization](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001413)! 
 
 
 For more info
