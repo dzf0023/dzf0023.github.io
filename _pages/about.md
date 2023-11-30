@@ -17,21 +17,21 @@ During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-
 
 News
 ======
- <span style="color:blue;">[Nov 2023] </span> I am excited to start serving as a reviewer for  ACL Rolling Review (ARR) 
+ <span style="color:blue;">[Nov 2023] </span> I am excited to start serving as a reviewer for  ACL Rolling Review (ARR)!
 
- <span style="color:blue;">[Oct 2023] </span> I am excited to start serving as a reviewer for Expert Systems With Applications
+ <span style="color:blue;">[Oct 2023] </span> I am excited to start serving as a reviewer for Expert Systems With Applications!
 
- <span style="color:blue;">[Oct 2023] </span> Our two papers got accepted by EMNLP 2023
+ <span style="color:blue;">[Oct 2023] </span> Our two papers got accepted by EMNLP 2023! [TELeR](https://arxiv.org/abs/2305.11430), [zero-shot](https://arxiv.org/abs/2304.07382)
 
- <span style="color:blue;">[Sept 2023] </span> I present our paper at AIxIA 2023
+ <span style="color:blue;">[Sept 2023] </span> I present our paper at AIxIA 2023!
 
- <span style="color:blue;">[Sept 2023] </span> Our paper got accepted by the 22nd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2023)
+ <span style="color:blue;">[Sept 2023] </span> Our paper [Fermi Multiverse](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://ceur-ws.org/Vol-3551/paper9.pdf) got accepted by the 22nd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2023)!
 
- <span style="color:blue;">[Oct 2023] </span> I joined Gustavus Adolphus College as a Computer Science Assistant Professor
+ <span style="color:blue;">[Oct 2023] </span> I joined Gustavus Adolphus College as a Tenure-Track Computer Science Assistant Professor!
 
- <span style="color:blue;">[Oct 2023] </span> I have defended my Ph.D. thesis and graduated from Auburn University!!!
+ <span style="color:blue;">[Oct 2023] </span> I have defended my Ph.D. thesis and graduated from Auburn University!
 
- <span style="color:blue;">[May 2023] </span> Our paper has been accepted by Information Processing and Management Journal 
+ <span style="color:blue;">[May 2023] </span> Our paper has been accepted by Information Processing and Management Journal! 
 
 
 For more info
