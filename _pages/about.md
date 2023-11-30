@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Dongji Feng, I am a Computer Science tenure-track assistant professor at Gustavus Adolphus College. I finished my Ph.D. at BDI lab under the supervision of [Dr.Santu](https://karmake2.github.io/){:target="_blank"}. My research interests include Natural Language Generation, Large Language Models, Information Retrieval, and corresponding evaluation metrics. I am also interested in Game Design and STEM education. 
+Hello, my name is Dongji Feng, I am a Computer Science tenure-track assistant professor at Gustavus Adolphus College. I finished my Ph.D. at BDI lab under the supervision of [Dr.Santu](https://karmake2.github.io/). My research interests include Natural Language Generation, Large Language Models, Information Retrieval, and corresponding evaluation metrics. I am also interested in Game Design and STEM education. 
 Before I joined BDI lab, I worked with [Dr.Thomas](https://eng.auburn.edu/directory/jnt0020) on research exploring the development of computational algorithmic thinking, during which I served as Entrepreneur lead for an education start-up funded by the [NSF I-Corp](https://new.nsf.gov/funding/initiatives/i-corps).
 During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-level Computer Science courses, such as [Graduate Level: Information Retrieval, Machine Learning, Computer Game Design & Development] and [undergraduate level: Intro to Algorithm, Cloud Computing]. 
 
