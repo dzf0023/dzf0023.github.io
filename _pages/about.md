@@ -17,15 +17,12 @@ During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-
 
 News
 ======
-1 <span style="color:blue;">[Oct 2023] </span> I am excited to serve as a reviewer for  ACL Rolling Review (ARR) @Association for Computational Linguistics
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-
-
+1 <span style="color:blue;">[Nov 2023] </span> I am excited to start serving as a reviewer for  ACL Rolling Review (ARR) @Association for Computational Linguistics
+2 <span style="color:blue;">[Oct 2023] </span> I am excited to start serving as a reviewer for @Expert Systems With Applications
+3 <span style="color:blue;">[Oct 2023] </span> Our two papers got accepted by EMNLP 2023
+4 <span style="color:blue;">[Sept 2023] </span> I present our paper at AIxIA 2023
+5 <span style="color:blue;">[Sept 2023] </span> Our paper got accepted by the 22nd International Conference of the Italian Association for Artificial Intelligence (AIxIA 2023)
+5 <span style="color:blue;">[Oct 2023] </span> I have defended my thesis and graduated from Auburn University!!!
 
 
 For more info
