@@ -4,7 +4,7 @@ collection: publications
 
 excerpt: 'paper proposes a general taxonomy that can be used to design prompts with specific properties in order to perform a wide range of complex tasks. This taxonomy will allow future benchmarking studies to report the specific categories of prompts used as part of the study, enabling meaningful comparisons across different studies.'
 date: 2023-10
-venue: 'Journal 1'
+venue: 'EMNLP 2023
 
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
