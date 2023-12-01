@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Joint upper & expected value normalization for evaluation of retrieval systems: A case study with Learning-to-Rank methods"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Information Retrieval evaluation often use upper bound normalization, what about expected value normalization '
+date: 2023-05-01
+venue: 'Information Processing \& Management'
+paperurl: 'http://academicpages.github.io/files/'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+We next conducted two case studies by instantiating the new framework for two popular IR evaluation metrics (e.g., nDCG, MAP) and then comparing them against the traditional metrics.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0306457323001413)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
