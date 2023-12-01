@@ -1,8 +1,8 @@
 ---
 title: "Navigating the Fermi Multiverse: Assessing LLMs for Complex Multi-hop Queries"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'We conduct a comprehensive analysis of LLMs using the existing Fermi reasoning challenge, a task that combines different aspects of reasoning in to a single question-answering format, requiring deeper levels of reasoning'
+permalink: /publication/Fermi
+excerpt: 'We conduct a comprehensive analysis of LLMs using the existing Fermi reasoning challenge, a task that combines different aspects of reasoning into a single question-answering format, requiring deeper levels of reasoning'
 date: 2023-10-01
 venue: 'NL4AI'
 paperurl: 'https://github.com/dzf0023/dzf0023.github.io/blob/master/files/Fermi_Universe.pdf'
