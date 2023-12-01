@@ -11,30 +11,32 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S.  Shanxi University, Taiyuan, China, 2012 - 2016
+* M.S.  Auburn University, Auburn, US,  2016-2018
+* Ph.D. Auburn University, Auburn, US,  2019-2023
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2020: Research Assistant
+  * Auburn University, BDI lab
+  * Duties included: Natural Language Generation, Information Retrieval, Evaluation
+  * Supervisor: [Dr.Santu](https://karmake2.github.io/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019: Big Data Engineer
+  * EVERBRIGHT TECHNOLOGY CO.LTD, Beijing, China
+  * Duties included: Working as an algorithm developer to analyze and design several recommendation algorithms for complicated products implemented in   
+    different scenes.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Fall 2017 - Fall 2019: Research Assistant
+  * Auburn University
+  * Duties included:STEM education; Development of computational algorithmic thinking
+  * Supervisor: [Dr.Thomas](https://www.jakitaothomas.com/)
+
+* April 2018 - August 2018: Entrepreneur Lead
+  * Duties included: Entrepreneur lead of a startup "Edspread". Platform building
+  * Supervisor: [Dr.Thomas](https://www.jakitaothomas.com/)
+
+
 
 Publications
 ======
