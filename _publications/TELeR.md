@@ -11,7 +11,7 @@ This paper proposes a general taxonomy that can be used to design prompts with s
 
 Check out our poster:
 
-![Alt text](files/EMNLP2023_Poster.pdf)
+![Alt text](https://github.com/dzf0023/dzf0023.github.io/blob/master/files/EMNLP2023_Poster.pdf)
 
 [Download paper here](https://arxiv.org/abs/2305.11430)
 
