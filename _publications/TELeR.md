@@ -9,9 +9,9 @@ paperurl: 'https://github.com/dzf0023/dzf0023.github.io/blob/master/files/TELeR.
 ---
 This paper proposes a general taxonomy that can be used to design prompts with specific properties in order to perform a wide range of complex tasks. This taxonomy will allow future benchmarking studies to report the specific categories of prompts used as part of the study, enabling meaningful comparisons across different studies.
 
-Check out the poster for EMNLP 2023:
+Check out our poster for EMNLP 2023:
 
-![Alt text](https://github.com/dzf0023/dzf0023.github.io/blob/master/files/EMNLP2023_Poster.pdf)
+![ALT TEXT](https://github.com/dzf0023/dzf0023.github.io/blob/master/files/EMNLP2023_Poster.pdf)
 
 [Download paper here](https://arxiv.org/abs/2305.11430)
 
