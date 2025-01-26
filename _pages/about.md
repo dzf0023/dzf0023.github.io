@@ -10,9 +10,9 @@ redirect_from:
 
 Hello, my name is Dongji Feng, I am a Computer Science tenure-track assistant professor at Gustavus Adolphus College. I finished my Ph.D. at BDI lab under the supervision of [Dr.Santu](https://karmake2.github.io/). My research interests include Natural Language Generation, Large Language Models, Information Retrieval, and corresponding evaluation metrics. I am also interested in Game Design and STEM education. 
 Before I joined BDI lab, I worked with [Dr.Thomas](https://eng.auburn.edu/directory/jnt0020) on research exploring the development of computational algorithmic thinking, during which I served as Entrepreneur lead for an education start-up funded by the [NSF I-Corp](https://new.nsf.gov/funding/initiatives/i-corps).
-During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-level Computer Science courses, such as [Graduate Level: Information Retrieval, Machine Learning, Computer Game Design & Development] and [undergraduate level: Intro to Algorithm, Cloud Computing]. 
+During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-level Computer Science courses, such as [Graduate Level: Information Retrieval, Machine Learning, Computer Game Design & Development] and [undergraduate level: Intro to Algorithm, Cloud Computing]. I am a member of [FinAI community](https://www.thefin.ai/)
 
-
+Currently, I am establishing the first AI Lab at Gustavus (still deciding on the name) and actively mentoring four undergraduate students in research. Additionally, I serve as the academic advisor for nine undergraduate students. Outside of work, I enjoy sports, music, and reading. I also serve as the advisor for the Frisbee Club and play soccer with the Gustavus Soccer Club!
 
 
 News
@@ -31,6 +31,8 @@ News
 <span style="color:blue;">[Oct 2024] </span> Our paper [Investigating Annotator Bias in Large Language Models for Hate Speech Detection] got accepted by Safe Generative AI Workshop @ NeurIPS 2024. I will present our poster in December, Vancouver, Canada.
 
 <span style="color:blue;">[July 2024] </span> Our paper [Towards Effective Authorship Attribution](https://ieeexplore.ieee.org/abstract/document/10835464) got accepted by The Sixth IEEE International Conference on Cognitive Machine Intelligence!
+
+<span style="color:blue;">[May 2024] </span>  My first research student, Zishuo Liu, has graduated and joined Boston University to begin his graduate studies. Congratulations to him!
 
  <span style="color:blue;">[Nov 2023] </span> I am excited to start serving as a reviewer for  ACL Rolling Review (ARR)!
 
