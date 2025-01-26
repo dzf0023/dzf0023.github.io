@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Fall 2023: Tenure-track Assistant Professor
+  * Gustavus Adolphus College
+  * Duties included: Teaching, Research, Service
+
+
 * Spring 2020: Research Assistant
   * Auburn University, BDI lab
   * Duties included: Natural Language Generation, Information Retrieval, Evaluation
@@ -58,4 +63,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Committee Member: Swanson-Holcomb Undergraduate Research (SHUR), Gustavus Adolphus College
+* PC member: Reasoning and Planning for LLMs, ICLR 2025
+* PC member: AI Agent for Information Retrieval, AAAI 2025
+* Reviewer: Expert Systems with Applications (Journal)
+* Reviewer: Natural Language Processing Journal (Journal)
+* Reviewer: Association for Computational Linguistics (Rolling Review, 2024)
+* Reviewer: Conference on Empirical Methods in Natural Language Processing (EMNLP)
+* Reviewer: ACM International conference on information and knowledge management (CIKM)
+* Reviewer: Conference on Knowledge Discovery and Data Mining (SIGKDD)
+* Reviewer: Conference on Research and Development in Information Retrieval (SIGIR)
+* Innovation program advisor, Gustavus Adolphus College
+* Curriculum Development community member, MAC department, Gustavus Adolphus College
+* GAC Frisbee Club faculty advisor, Gustavus Adolphus College
+
