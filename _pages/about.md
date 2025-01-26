@@ -17,6 +17,21 @@ During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-
 
 News
 ======
+
+<span style="color:blue;">[Jan 2025] </span> I received two funds from Gustavus to support "First-year student research" and "Second-year student research"!!! 
+
+<span style="color:blue;">[Jan 2025] </span> Our paper [LLMs as Meta-Reviewers' Assistants: A Case Study] has been accepted by NAACL 2025 as a main conference paper!!!
+
+<span style="color:blue;">[Jan 2025] </span> I am happy to serve as a PC member for  Reasoning and Planning for LLMs, ICLR 2025
+
+<span style="color:blue;">[Dec 2024] </span> I am happy to serve as a PC member for  AI Agent for Information Retrieval, AAAI 2025
+
+<span style="color:blue;">[Oct 2024] </span>I am happy to receive the Swanson-Holcomb Undergraduate Research (SHUR) award from @Gustavus to support my undergraduate student research
+
+<span style="color:blue;">[Oct 2024] </span> Our paper [Investigating Annotator Bias in Large Language Models for Hate Speech Detection] got accepted by Safe Generative AI Workshop @ NeurIPS 2024. I will present our poster in December, Vancouver, Canada.
+
+<span style="color:blue;">[July 2024] </span> Our paper [Towards Effective Authorship Attribution](https://ieeexplore.ieee.org/abstract/document/10835464) got accepted by The Sixth IEEE International Conference on Cognitive Machine Intelligence!
+
  <span style="color:blue;">[Nov 2023] </span> I am excited to start serving as a reviewer for  ACL Rolling Review (ARR)!
 
  <span style="color:blue;">[Oct 2023] </span> I am excited to start serving as a reviewer for Expert Systems With Applications!
