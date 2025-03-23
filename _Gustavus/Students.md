@@ -14,5 +14,10 @@ This is a description of your talk, which is a markdown files that can be all ma
 ![Frija](images/Gustavus_AI/Frija.png)
 
 ## Short Bio
-I'm **[YFrija]**, a [Senior CS student] at [Gustavus]. I'm passionate about [drawing, reading, f1.].
+I'm **[Frija]**, a [Senior CS student] at [Gustavus]. I'm passionate about [drawing, reading, f1.].
 
+
+![Leo](images/Gustavus_AI/Leo.png)
+
+## Short Bio
+I'm **[Leo]**, a [Senior CS student] at [Gustavus].
