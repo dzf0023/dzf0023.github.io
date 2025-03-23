@@ -16,6 +16,8 @@ Currently, I am establishing the first AI Lab at Gustavus (still deciding on the
 
 News
 ======
+<span style="color:blue;">[March 2025] </span>I am happy to receive the Presidential Faculty-Student Collaboration Grant Award @2025 from Gustavus to support my undergraduate student research during Summer 2025. 
+
 <span style="color:blue;">[Feb 2025] </span>I am happy to receive the Swanson-Holcomb Undergraduate Research (SHUR) award from @Gustavus to support two of my undergraduate student research!!
 
 <span style="color:blue;">[Jan 2025] </span> I received two funds from Gustavus to support "First-year student research" and "Second-year student research"!!! 
