@@ -8,14 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Hello, my name is Dongji Feng, I am a Computer Science tenure-track assistant professor at California State University, Monterey Bay (CSUMB). I finished my Ph.D. at the BDI lab under the supervision of [Dr.Santu](https://karmake2.github.io/). My research interests include Natural Language Generation, Large Language Models, Information Retrieval, and corresponding evaluation metrics. I am also interested in Game Design and STEM education. 
-Before I joined CSUMB, I was a tenure-track assistant professor at Gustavus Adolphus College. Prior to joining the BDI lab, I worked with [Dr.Thomas](https://eng.auburn.edu/directory/jnt0020) on research exploring the development of computational algorithmic thinking, during which I served as Entrepreneur lead for an education start-up funded by the [NSF I-Corp](https://new.nsf.gov/funding/initiatives/i-corps).
+Hello, my name is Dongji Feng, and I am a Computer Science tenure-track assistant professor at California State University, Monterey Bay (CSUMB). I finished my Ph.D. at the BDI lab under the supervision of [Dr.Santu](https://karmake2.github.io/). My research interests include Natural Language Generation, Large Language Models, Information Retrieval, and corresponding evaluation metrics. I am also interested in Game Design and STEM education. 
+Before I joined CSUMB, I was a tenure-track assistant professor at Gustavus Adolphus College. Before joining the BDI lab, I worked with [Dr.Thomas](https://eng.auburn.edu/directory/jnt0020) on research exploring the development of computational algorithmic thinking, during which I served as Entrepreneur lead for an education start-up funded by the [NSF I-Corps](https://new.nsf.gov/funding/initiatives/i-corps).
 During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-level Computer Science courses, such as [Graduate Level: Information Retrieval, Machine Learning, Computer Game Design & Development] and [undergraduate level: Intro to Algorithm, Cloud Computing]. I am a member of [FinAI community](https://www.thefin.ai/)
-Currently, I am establishing the first AI Lab at Gustavus (still deciding on the name) and actively mentoring four undergraduate students in research. Additionally, I serve as the academic advisor for nine undergraduate students. Outside of work, I enjoy sports, music, and reading. I also serve as the advisor for the Frisbee Club and play soccer with the Gustavus Soccer Club!
 
 
 News
 ======
+<span style="color:blue;">[May 2026] </span> I received R2Pilot grant from CSUMB to support my research work.
+
+<span style="color:blue;">[May 2026] </span> Our work has been accepted by [Sigir 2026](https://sigir2026.org/en-AU)
+
+<span style="color:blue;">[Mar 2026] </span> My first CSUMB student [Quinn]([https://www.thefin.ai/](https://www.linkedin.com/in/quinn-krommenhoek-970bba248/)) has had his first paper accepted to [HCII 2026](https://2026.hci.international/) as first author!
+
+<span style="color:blue;">[Feb 2026] </span> I received UROC (Undergraduate Research Opportunity Center) funding from CSUMB to support students doing AI-related research. 
+
 <span style="color:blue;">[Dec 2025] </span> My two mentored capstone projects received the Most Innovative and Faculty Choice awards at the Fall 2025 Capstone Festival at CSUMB.
 
 <span style="color:blue;">[Aug 2025] </span> I joined California State University, Monterey Bay as a Tenure-Track Computer Science Assistant Professor! 
