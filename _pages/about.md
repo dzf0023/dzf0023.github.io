@@ -15,6 +15,8 @@ During my Ph.D., I also served as Teaching Assistant for undergraduate/graduate-
 
 News
 ======
+<span style="color:blue;">[May 2026] </span> I will be leading the AI minor program at CSUMB.
+
 <span style="color:blue;">[May 2026] </span> I received UROC ($4000) funding from CSUMB to support students doing AI-related research.
 
 <span style="color:blue;">[May 2026] </span> I received R2Pilot grant from CSUMB to support my research work.
